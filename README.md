@@ -15,3 +15,5 @@
 - Consumo de API externa
 - Rutas dinámicas (`/Pokemones/[name]`)
 - Diseño responsivo con Tailwind
+
+- Repositorio de github: https://github.com/maneutm/API_RUTAS_DINAMICAD
