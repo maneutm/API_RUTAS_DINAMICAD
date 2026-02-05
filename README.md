@@ -17,3 +17,4 @@
 - Diseño responsivo con Tailwind
 
 - Repositorio de github: https://github.com/maneutm/API_RUTAS_DINAMICAD
+- vercel: https://api-rutas-dinamicad.vercel.app/
